@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://justfill.app/favicon.svg" height="14"/> [JustFill](https://github.com/mrmaciej1/justfill-mcp) - Detect, visually review, and fill existing PDF forms (AcroForm, hybrid XFA, flat Word PDFs, and scans) from JSON or reusable templates, with 1-click ChatGPT/Claude-to-Web-Editor handoff ([justfill.app/mcp](https://justfill.app/mcp)).
 
 
 <br />
